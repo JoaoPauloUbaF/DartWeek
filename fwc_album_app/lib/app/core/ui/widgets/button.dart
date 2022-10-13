@@ -22,6 +22,7 @@ class Button extends StatelessWidget {
       this.outline = false})
       : super(key: key);
 
+  // ignore: use_key_in_widget_constructors
   Button.primary({
     Key? key,
     required this.label,
@@ -46,11 +47,11 @@ class Button extends StatelessWidget {
       child: outline
           ? OutlinedButton(
               onPressed: onPressed,
-              child: labelText,
               style: style,
+              child: labelText,
             )
           : ElevatedButton(
-              onPressed: onPressed, child: labelText, style: style),
+              onPressed: onPressed, style: style, child: labelText),
     );
   }
 }
