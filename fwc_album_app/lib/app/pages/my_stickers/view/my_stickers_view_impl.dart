@@ -3,7 +3,6 @@ import 'package:fwc_album_app/app/core/ui/helpers/loader.dart';
 import 'package:fwc_album_app/app/core/ui/helpers/messages.dart';
 import 'package:fwc_album_app/app/models/groups_stickers.dart';
 import 'package:fwc_album_app/app/pages/my_stickers/my_stickers_page.dart';
-import 'package:fwc_album_app/app/pages/my_stickers/widgets/sticker_group.dart';
 
 import './my_stickers_view.dart';
 
