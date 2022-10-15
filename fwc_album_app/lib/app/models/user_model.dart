@@ -39,11 +39,11 @@ class UserModel {
       id: map['id']?.toInt() ?? 0,
       name: map['name'] ?? '',
       email: map['email'] ?? '',
-      totalAlbum: map['totalAlbum']?.toInt() ?? 0,
-      totalStickers: map['totalStickers']?.toInt() ?? 0,
-      totalDuplicates: map['totalDuplicates']?.toInt() ?? 0,
-      totalComplete: map['totalComplete']?.toInt() ?? 0,
-      totalCompletPercent: map['totalCompletPercent']?.toInt() ?? 0,
+      totalAlbum: map['total_album']?.toInt() ?? 0,
+      totalStickers: map['total_stickers']?.toInt() ?? 0,
+      totalDuplicates: map['total_duplicates']?.toInt() ?? 0,
+      totalComplete: map['total_complete']?.toInt() ?? 0,
+      totalCompletPercent: map['total_complet_percent']?.toInt() ?? 0,
     );
   }
 
