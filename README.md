@@ -12,16 +12,15 @@ App para gerenciar figurinhas da Copa do Mundo do Qatar. Utilizando arquitetura 
 - [@RubensColiseu](https://github.com/RubensColiseu)
 
 ## Tutor
--[@RodrigoRahman](https://www.linkedin.com/in/rodrigo-rahman/)
+- [@RodrigoRahman](https://www.linkedin.com/in/rodrigo-rahman/)
 
 ## Funcionalidades
-
- Splash screen
- Login e cadastro com autenticação
- Home Page
- Detail page
- Padrão de projeto MVP
- Persistindo informações com banco de dados
+- Splash screen
+- Login e cadastro com autenticação
+- Home Page
+- Detail page
+- Padrão de projeto MVP
+- Persistindo informações com banco de dados
 
 ## Sobre
 Projeto desenvolvido no evento Dart Week, disponibilizado gratuitamente pela Academia do Flutter. Consiste em um gerenciador de figurinhas, no intuito de acompanhar as figurinhas ja adquiridas, as duplicadas e as faltantes. Para isso há um cadastro e login de usuário, busca, criação e atualização das figurinhas por acesso a uma API criada com exclusividade para a semana do evento.
