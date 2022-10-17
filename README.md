@@ -11,6 +11,8 @@ App para gerenciar figurinhas da Copa do Mundo do Qatar. Utilizando arquitetura 
 
 - [@RubensColiseu](https://github.com/RubensColiseu)
 
+## Tutor
+-[@RodrigoRahman](https://www.linkedin.com/in/rodrigo-rahman/)
 
 ## Funcionalidades
 
