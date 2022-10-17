@@ -1,6 +1,6 @@
 # DartWeek 8ª edição - FIFA WORLD CUP album manager
 
-App para você gerir suas figurinhas da copa! Com o padrão de projeto MVP, usando SetState, Integração com backend, filtros e diversos packages auxiliares!
+App para gerenciar figurinhas da Copa do Mundo do Qatar. Utilizando arquitetura de projeto MVP, estados, acesso a API, filtros e diversos pacotes externos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
